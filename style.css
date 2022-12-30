@@ -188,7 +188,7 @@ div:hover .middle{
   padding: 40px;
 }
 
-.projects .container{
+.projects #container{
     width:100vw;
     height:80vh;
     display:flex;
